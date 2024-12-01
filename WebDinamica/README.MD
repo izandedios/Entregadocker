@@ -11,3 +11,9 @@ ACCEDER A LA BASE DE DATOS
 3.	Cambiamos el puerto por defecto a 3311
 4.	Introducimos la contraseña que está en el fichero DOCKER-COMPOSE.YML
 5.	Por último le damos a abrir y listo
+
+Iniciar y Detener los contenedores (Siempre dentro de las carpetas)
+
+Para pararlo, docker compose down
+
+Para activarlo, docker compose up -d
